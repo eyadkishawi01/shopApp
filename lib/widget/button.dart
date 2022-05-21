@@ -26,7 +26,7 @@ class prplButton extends StatelessWidget {
                 boxShadow: const [
                   BoxShadow(
                     color: Color.fromARGB(255, 131, 131, 143),
-                    blurRadius: 16,
+                    blurRadius: 17,
                     offset: Offset(0, 4), // Shadow position
                   ),
                 ],
